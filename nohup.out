@@ -1,0 +1,480 @@
+INFO(Fri Aug 16 14:27:41 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 3
+(1)Authenticator generation time for 500 blocks and 3 files is 12.365344
+(2)Keyword tag generation time for 3 files and 500 blocks is 11.621088
+(3)Challenge generation time for 300 checking-blocks is 0.000155
+(4)Proof generation time for one keyword(contains 3 files) and 300 checking-blocks is 0.443364
+(5)Proof verifacation time for 300 checking-blocks is 2.727102
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:28:10 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 6
+(1)Authenticator generation time for 500 blocks and 6 files is 24.803359
+(2)Keyword tag generation time for 6 files and 500 blocks is 18.473454
+(3)Challenge generation time for 300 checking-blocks is 0.000140
+(4)Proof generation time for one keyword(contains 6 files) and 300 checking-blocks is 0.820991
+(5)Proof verifacation time for 300 checking-blocks is 2.707251
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:28:59 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 9
+(1)Authenticator generation time for 500 blocks and 9 files is 37.424270
+(2)Keyword tag generation time for 9 files and 500 blocks is 24.840956
+(3)Challenge generation time for 300 checking-blocks is 0.000156
+(4)Proof generation time for one keyword(contains 9 files) and 300 checking-blocks is 1.173071
+(5)Proof verifacation time for 300 checking-blocks is 2.733034
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:30:08 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 12
+(1)Authenticator generation time for 500 blocks and 12 files is 49.072410
+(2)Keyword tag generation time for 12 files and 500 blocks is 31.032994
+(3)Challenge generation time for 300 checking-blocks is 0.000156
+(4)Proof generation time for one keyword(contains 12 files) and 300 checking-blocks is 1.452146
+(5)Proof verifacation time for 300 checking-blocks is 2.580915
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:31:36 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 15
+(1)Authenticator generation time for 500 blocks and 15 files is 59.306095
+(2)Keyword tag generation time for 15 files and 500 blocks is 37.360538
+(3)Challenge generation time for 300 checking-blocks is 0.000144
+(4)Proof generation time for one keyword(contains 15 files) and 300 checking-blocks is 1.865055
+(5)Proof verifacation time for 300 checking-blocks is 2.814769
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:33:21 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 18
+(1)Authenticator generation time for 500 blocks and 18 files is 73.790235
+(2)Keyword tag generation time for 18 files and 500 blocks is 44.326027
+(3)Challenge generation time for 300 checking-blocks is 0.000142
+(4)Proof generation time for one keyword(contains 18 files) and 300 checking-blocks is 2.204775
+(5)Proof verifacation time for 300 checking-blocks is 2.707648
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:35:29 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 21
+(1)Authenticator generation time for 500 blocks and 21 files is 85.033960
+(2)Keyword tag generation time for 21 files and 500 blocks is 50.754947
+(3)Challenge generation time for 300 checking-blocks is 0.000153
+(4)Proof generation time for one keyword(contains 21 files) and 300 checking-blocks is 2.926631
+(5)Proof verifacation time for 300 checking-blocks is 2.719791
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:37:56 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 24
+(1)Authenticator generation time for 500 blocks and 24 files is 98.589334
+(2)Keyword tag generation time for 24 files and 500 blocks is 56.812423
+(3)Challenge generation time for 300 checking-blocks is 0.000155
+(4)Proof generation time for one keyword(contains 24 files) and 300 checking-blocks is 2.951193
+(5)Proof verifacation time for 300 checking-blocks is 2.732492
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:40:43 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 27
+(1)Authenticator generation time for 500 blocks and 27 files is 106.997792
+(2)Keyword tag generation time for 27 files and 500 blocks is 60.555168
+(3)Challenge generation time for 300 checking-blocks is 0.000156
+(4)Proof generation time for one keyword(contains 27 files) and 300 checking-blocks is 3.096839
+(5)Proof verifacation time for 300 checking-blocks is 2.567021
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:43:42 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 300
+The number of files related to the keyword : 30
+(1)Authenticator generation time for 500 blocks and 30 files is 119.514583
+(2)Keyword tag generation time for 30 files and 500 blocks is 69.821645
+(3)Challenge generation time for 300 checking-blocks is 0.000154
+(4)Proof generation time for one keyword(contains 30 files) and 300 checking-blocks is 3.647611
+(5)Proof verifacation time for 300 checking-blocks is 2.672774
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:47:05 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 3
+(1)Authenticator generation time for 1000 blocks and 3 files is 23.757923
+(2)Keyword tag generation time for 3 files and 1000 blocks is 22.519317
+(3)Challenge generation time for 300 checking-blocks is 0.000146
+(4)Proof generation time for one keyword(contains 3 files) and 300 checking-blocks is 0.444038
+(5)Proof verifacation time for 300 checking-blocks is 2.577576
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:47:56 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 6
+(1)Authenticator generation time for 1000 blocks and 6 files is 48.772454
+(2)Keyword tag generation time for 6 files and 1000 blocks is 36.511442
+(3)Challenge generation time for 300 checking-blocks is 0.000157
+(4)Proof generation time for one keyword(contains 6 files) and 300 checking-blocks is 0.838043
+(5)Proof verifacation time for 300 checking-blocks is 2.725928
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:49:29 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 9
+(1)Authenticator generation time for 1000 blocks and 9 files is 72.781439
+(2)Keyword tag generation time for 9 files and 1000 blocks is 49.001946
+(3)Challenge generation time for 300 checking-blocks is 0.000146
+(4)Proof generation time for one keyword(contains 9 files) and 300 checking-blocks is 1.169508
+(5)Proof verifacation time for 300 checking-blocks is 2.684530
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:51:39 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 12
+(1)Authenticator generation time for 1000 blocks and 12 files is 98.085702
+(2)Keyword tag generation time for 12 files and 1000 blocks is 61.865522
+(3)Challenge generation time for 300 checking-blocks is 0.000154
+(4)Proof generation time for one keyword(contains 12 files) and 300 checking-blocks is 1.500036
+(5)Proof verifacation time for 300 checking-blocks is 2.669556
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:54:29 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 15
+(1)Authenticator generation time for 1000 blocks and 15 files is 121.411621
+(2)Keyword tag generation time for 15 files and 1000 blocks is 72.896872
+(3)Challenge generation time for 300 checking-blocks is 0.000145
+(4)Proof generation time for one keyword(contains 15 files) and 300 checking-blocks is 1.758233
+(5)Proof verifacation time for 300 checking-blocks is 2.561753
+-----valid!-----
+ 
+INFO(Fri Aug 16 14:57:54 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 18
+(1)Authenticator generation time for 1000 blocks and 18 files is 143.568347
+(2)Keyword tag generation time for 18 files and 1000 blocks is 86.749890
+(3)Challenge generation time for 300 checking-blocks is 0.000143
+(4)Proof generation time for one keyword(contains 18 files) and 300 checking-blocks is 2.187122
+(5)Proof verifacation time for 300 checking-blocks is 2.823938
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:01:58 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 21
+(1)Authenticator generation time for 1000 blocks and 21 files is 167.084113
+(2)Keyword tag generation time for 21 files and 1000 blocks is 100.464950
+(3)Challenge generation time for 300 checking-blocks is 0.000170
+(4)Proof generation time for one keyword(contains 21 files) and 300 checking-blocks is 2.574339
+(5)Proof verifacation time for 300 checking-blocks is 2.657677
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:06:40 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 24
+(1)Authenticator generation time for 1000 blocks and 24 files is 191.057550
+(2)Keyword tag generation time for 24 files and 1000 blocks is 113.261507
+(3)Challenge generation time for 300 checking-blocks is 0.000155
+(4)Proof generation time for one keyword(contains 24 files) and 300 checking-blocks is 2.886784
+(5)Proof verifacation time for 300 checking-blocks is 2.890405
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:12:00 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 27
+(1)Authenticator generation time for 1000 blocks and 27 files is 216.104223
+(2)Keyword tag generation time for 27 files and 1000 blocks is 127.049305
+(3)Challenge generation time for 300 checking-blocks is 0.000156
+(4)Proof generation time for one keyword(contains 27 files) and 300 checking-blocks is 3.279778
+(5)Proof verifacation time for 300 checking-blocks is 2.689929
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:18:00 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 300
+The number of files related to the keyword : 30
+(1)Authenticator generation time for 1000 blocks and 30 files is 242.088578
+(2)Keyword tag generation time for 30 files and 1000 blocks is 137.500264
+(3)Challenge generation time for 300 checking-blocks is 0.000162
+(4)Proof generation time for one keyword(contains 30 files) and 300 checking-blocks is 3.581379
+(5)Proof verifacation time for 300 checking-blocks is 2.691813
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:30:43 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 3
+(1)Authenticator generation time for 500 blocks and 3 files is 12.519859
+(2)Keyword tag generation time for 3 files and 500 blocks is 11.735519
+(3)Challenge generation time for 460 checking-blocks is 0.000238
+(4)Proof generation time for one keyword(contains 3 files) and 460 checking-blocks is 0.728018
+(5)Proof verifacation time for 460 checking-blocks is 4.169739
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:31:14 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 6
+(1)Authenticator generation time for 500 blocks and 6 files is 24.321220
+(2)Keyword tag generation time for 6 files and 500 blocks is 18.117160
+(3)Challenge generation time for 460 checking-blocks is 0.000231
+(4)Proof generation time for one keyword(contains 6 files) and 460 checking-blocks is 1.241670
+(5)Proof verifacation time for 460 checking-blocks is 4.096236
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:32:04 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 9
+(1)Authenticator generation time for 500 blocks and 9 files is 35.148867
+(2)Keyword tag generation time for 9 files and 500 blocks is 23.813298
+(3)Challenge generation time for 460 checking-blocks is 0.000232
+(4)Proof generation time for one keyword(contains 9 files) and 460 checking-blocks is 2.188319
+(5)Proof verifacation time for 460 checking-blocks is 4.090862
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:33:13 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 12
+(1)Authenticator generation time for 500 blocks and 12 files is 46.731255
+(2)Keyword tag generation time for 12 files and 500 blocks is 29.715131
+(3)Challenge generation time for 460 checking-blocks is 0.000248
+(4)Proof generation time for one keyword(contains 12 files) and 460 checking-blocks is 2.206093
+(5)Proof verifacation time for 460 checking-blocks is 3.925478
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:34:39 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 15
+(1)Authenticator generation time for 500 blocks and 15 files is 59.916736
+(2)Keyword tag generation time for 15 files and 500 blocks is 35.825794
+(3)Challenge generation time for 460 checking-blocks is 0.000250
+(4)Proof generation time for one keyword(contains 15 files) and 460 checking-blocks is 2.704606
+(5)Proof verifacation time for 460 checking-blocks is 4.244836
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:36:25 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 18
+(1)Authenticator generation time for 500 blocks and 18 files is 72.482524
+(2)Keyword tag generation time for 18 files and 500 blocks is 44.578667
+(3)Challenge generation time for 460 checking-blocks is 0.000242
+(4)Proof generation time for one keyword(contains 18 files) and 460 checking-blocks is 3.369438
+(5)Proof verifacation time for 460 checking-blocks is 3.994677
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:38:35 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 21
+(1)Authenticator generation time for 500 blocks and 21 files is 83.814282
+(2)Keyword tag generation time for 21 files and 500 blocks is 50.113531
+(3)Challenge generation time for 460 checking-blocks is 0.000219
+(4)Proof generation time for one keyword(contains 21 files) and 460 checking-blocks is 3.743583
+(5)Proof verifacation time for 460 checking-blocks is 3.937076
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:41:02 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 24
+(1)Authenticator generation time for 500 blocks and 24 files is 96.416629
+(2)Keyword tag generation time for 24 files and 500 blocks is 54.234654
+(3)Challenge generation time for 460 checking-blocks is 0.000216
+(4)Proof generation time for one keyword(contains 24 files) and 460 checking-blocks is 4.253173
+(5)Proof verifacation time for 460 checking-blocks is 3.930612
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:43:46 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 27
+(1)Authenticator generation time for 500 blocks and 27 files is 108.096168
+(2)Keyword tag generation time for 27 files and 500 blocks is 62.710409
+(3)Challenge generation time for 460 checking-blocks is 0.000248
+(4)Proof generation time for one keyword(contains 27 files) and 460 checking-blocks is 5.137225
+(5)Proof verifacation time for 460 checking-blocks is 3.929854
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:46:53 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 500
+The number of challenge blocks : 460
+The number of files related to the keyword : 30
+(1)Authenticator generation time for 500 blocks and 30 files is 120.270418
+(2)Keyword tag generation time for 30 files and 500 blocks is 66.874828
+(3)Challenge generation time for 460 checking-blocks is 0.000237
+(4)Proof generation time for one keyword(contains 30 files) and 460 checking-blocks is 5.540040
+(5)Proof verifacation time for 460 checking-blocks is 4.113165
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:50:16 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 3
+(1)Authenticator generation time for 1000 blocks and 3 files is 24.186036
+(2)Keyword tag generation time for 3 files and 1000 blocks is 22.759036
+(3)Challenge generation time for 460 checking-blocks is 0.000230
+(4)Proof generation time for one keyword(contains 3 files) and 460 checking-blocks is 0.677567
+(5)Proof verifacation time for 460 checking-blocks is 4.282731
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:51:10 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 6
+(1)Authenticator generation time for 1000 blocks and 6 files is 48.261195
+(2)Keyword tag generation time for 6 files and 1000 blocks is 35.541297
+(3)Challenge generation time for 460 checking-blocks is 0.000243
+(4)Proof generation time for one keyword(contains 6 files) and 460 checking-blocks is 1.239581
+(5)Proof verifacation time for 460 checking-blocks is 4.105066
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:52:43 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 9
+(1)Authenticator generation time for 1000 blocks and 9 files is 69.970880
+(2)Keyword tag generation time for 9 files and 1000 blocks is 48.358529
+(3)Challenge generation time for 460 checking-blocks is 0.000255
+(4)Proof generation time for one keyword(contains 9 files) and 460 checking-blocks is 1.921132
+(5)Proof verifacation time for 460 checking-blocks is 3.961856
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:54:52 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 12
+(1)Authenticator generation time for 1000 blocks and 12 files is 97.353794
+(2)Keyword tag generation time for 12 files and 1000 blocks is 62.087264
+(3)Challenge generation time for 460 checking-blocks is 0.000253
+(4)Proof generation time for one keyword(contains 12 files) and 460 checking-blocks is 2.301333
+(5)Proof verifacation time for 460 checking-blocks is 4.091633
+-----valid!-----
+ 
+INFO(Fri Aug 16 15:57:43 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 15
+(1)Authenticator generation time for 1000 blocks and 15 files is 118.440930
+(2)Keyword tag generation time for 15 files and 1000 blocks is 72.360459
+(3)Challenge generation time for 460 checking-blocks is 0.000233
+(4)Proof generation time for one keyword(contains 15 files) and 460 checking-blocks is 2.726014
+(5)Proof verifacation time for 460 checking-blocks is 4.288737
+-----valid!-----
+ 
+INFO(Fri Aug 16 16:01:08 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 18
+(1)Authenticator generation time for 1000 blocks and 18 files is 146.699240
+(2)Keyword tag generation time for 18 files and 1000 blocks is 87.218998
+(3)Challenge generation time for 460 checking-blocks is 0.000219
+(4)Proof generation time for one keyword(contains 18 files) and 460 checking-blocks is 3.299917
+(5)Proof verifacation time for 460 checking-blocks is 4.102114
+-----valid!-----
+ 
+INFO(Fri Aug 16 16:05:17 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 21
+(1)Authenticator generation time for 1000 blocks and 21 files is 168.868777
+(2)Keyword tag generation time for 21 files and 1000 blocks is 98.962507
+(3)Challenge generation time for 460 checking-blocks is 0.000261
+(4)Proof generation time for one keyword(contains 21 files) and 460 checking-blocks is 3.919616
+(5)Proof verifacation time for 460 checking-blocks is 4.240628
+-----valid!-----
+ 
+INFO(Fri Aug 16 16:10:03 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 24
+(1)Authenticator generation time for 1000 blocks and 24 files is 192.569162
+(2)Keyword tag generation time for 24 files and 1000 blocks is 109.576320
+(3)Challenge generation time for 460 checking-blocks is 0.000245
+(4)Proof generation time for one keyword(contains 24 files) and 460 checking-blocks is 4.449053
+(5)Proof verifacation time for 460 checking-blocks is 4.141267
+-----valid!-----
+ 
+INFO(Fri Aug 16 16:15:24 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 27
+(1)Authenticator generation time for 1000 blocks and 27 files is 216.158792
+(2)Keyword tag generation time for 27 files and 1000 blocks is 126.643165
+(3)Challenge generation time for 460 checking-blocks is 0.000252
+(4)Proof generation time for one keyword(contains 27 files) and 460 checking-blocks is 5.207014
+(5)Proof verifacation time for 460 checking-blocks is 4.185302
+-----valid!-----
+ 
+INFO(Fri Aug 16 16:21:28 2019) :
+pairing_length_in_bytes_Zr:20 ;G1:128 ;G2:128 ;GT:128
+The number of blocks in each file : 1000
+The number of challenge blocks : 460
+The number of files related to the keyword : 30
+(1)Authenticator generation time for 1000 blocks and 30 files is 241.656359
+(2)Keyword tag generation time for 30 files and 1000 blocks is 139.705293
+(3)Challenge generation time for 460 checking-blocks is 0.000230
+(4)Proof generation time for one keyword(contains 30 files) and 460 checking-blocks is 5.533854
+(5)Proof verifacation time for 460 checking-blocks is 4.105546
+-----valid!-----
+ 

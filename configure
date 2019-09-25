@@ -1,0 +1,7 @@
+#!/bin/bash
+read -p "Please input the number of blocks N: the challenge blocks C: and the number of files related to the queried keyword: NUM    " N C NUM
+#echo "NUM is $NUM"
+sed -i "7c #define N $N" public_header.h 
+sed -i "8c #define C $C" public_header.h
+sed -i "9c #define NUM $NUM" public_header.h
+gcc *.c -o app -I /usr/local/include/pbc/ -L /usr/local/lib/ -Wl,-rpath /usr/local/lib/ -l pbc -l gmp

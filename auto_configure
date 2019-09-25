@@ -1,0 +1,30 @@
+#!/bin/bash
+#read -p "Please input the number of blocks N: the challenge blocks C: and the number of files related to the queried keyword: NUM    " N C NUM
+#echo "NUM is $NUM"
+#N=1000
+
+#C=50
+
+#NUM=2
+sed -i "8c #define C 460" public_header.h 
+#for((N=100;N<=500;N+=200));
+#do
+	sed -i "7c #define N 500" public_header.h; 
+	for((NUM=3;NUM<=30;NUM+=3));
+	do
+		sed -i "9c #define NUM $NUM" public_header.h;
+		gcc *.c -o app -I /usr/local/include/pbc/ -L /usr/local/lib/ -Wl,-rpath /usr/local/lib/ -l pbc -l gmp;
+		sleep 1;
+		./app a.param;
+	done
+
+	sed -i "7c #define N 1000" public_header.h; 
+	for((NUM=3;NUM<=30;NUM+=3));
+	do
+		sed -i "9c #define NUM $NUM" public_header.h;
+		gcc *.c -o app -I /usr/local/include/pbc/ -L /usr/local/lib/ -Wl,-rpath /usr/local/lib/ -l pbc -l gmp;
+		sleep 1;
+		./app a.param;
+	done
+#done
+#done
